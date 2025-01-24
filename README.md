@@ -2,4 +2,6 @@
 
 Machine Learning.
 
-AUC - ROC Curve
+AUC - ROC Curve.
+
+Imbalanced Data.
